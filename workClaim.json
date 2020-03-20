@@ -1,0 +1,594 @@
+{
+    "CurrentDebtor": {
+       "DebtorId": 0,
+       "DebtorAttributes": [],
+       "DebtorName": "Shaun Marsh",
+       "DebtorType": "Business",
+       "Liability": "Maker",
+       "TaxID": "05-4661565",
+       "DOB": "9/16/1977",
+       "LastCBR": "",
+       "CBRScore": 0,
+       "CollScore": 46,
+       "StatueDisclosureMsg": "",
+       "LastDemandLtr": ""
+    },
+    "DebtorAddresses": [
+       {
+          "DebtorId": 0,
+          "MailAddr1": "335 PADEREWSKI AVE",
+          "MailAddr2": "test",
+          "MailCity": "Perth Amboy",
+          "MailState": "NJ",
+          "MailZip": "08861    ",
+          "MailCountry": "MIDDLESEX",
+          "Addr1": "330 PADEREWSKI AVE",
+          "Addr2": "New Jersey",
+          "City": "Shaun",
+          "State": "",
+          "Zip": "",
+          "Country": "US",
+          "LastUpdated": "1/7/2020 5:28PM",
+          "VfdCodeId": 0
+       }
+    ],
+    "DebtorPhones": [
+       {
+          "DebtorPhoneId": 0,
+          "DebtorId": 0,
+          "PhoneCode": "732-638-5556",
+          "NPA": "",
+          "NXX": "",
+          "LINE": "",
+          "EXT": "",
+          "Primary": false,
+          "DNC": false,
+          "VfdCodeId": 0
+       }
+    ],
+    "DebtorEmployers": [
+       {
+          "POEId": 0,
+          "EmployerId": "",
+          "EmpName": "Energy Transfer",
+          "Contact": "Herman Munster",
+          "Address": "2333 Bender Ave",
+          "City": "Tulsa",
+          "State": "OK",
+          "Zip": "74117",
+          "County": "Tulsa",
+          "Country": "US",
+          "NPA": "",
+          "NXX": "",
+          "LINE": "918-236-4755",
+          "Ext": "",
+          "FaxNPA": "",
+          "FaxNXX": "",
+          "FaxLINE": "",
+          "VfdCodeId": 0,
+          "Position": "filed tech",
+          "EmpNo": "",
+          "FullTime": true,
+          "Hourly": true,
+          "CorporateAdd": false,
+          "PmtFreq": "one time payment",
+          "PmtAmt": 32.00,
+          "HireDate": "02/02/2016",
+          "TermDate": "",
+          "POESource": "",
+          "VendorSource": "",
+          "NoWageGarnishReason": "",
+          "NoWageGarnish": "",
+          "NoWageGarnishOther": ""
+       }
+    ],
+    "DebtorAttorney": [
+       {
+          "DebtorId": 0,
+          "AttorneyId": 0,
+          "FirmName": "Rawls & Assoc",
+          "Prefix": "Ms.",
+          "FirstName": "Kathi",
+          "MiddleName": "S",
+          "LastName": "Aiyer",
+          "Suffix": "",
+          "Salutation": "Dear diary",
+          "MailAddr1": "5555 N. I-35 Corridor",
+          "MailAddr2": "Suite 136A",
+          "MailCity": "Oklahoma City",
+          "MailState": "AE",
+          "MailZip": "73008",
+          "MailCountry": "",
+          "Addr1": "5566 N. I-35 Corridor",
+          "Addr2": "Suite 136A",
+          "City": "Oklahoma City",
+          "State": "AE",
+          "Zip": "73008",
+          "Country": "",
+          "AttyBarNo": "",
+          "AttyType": "",
+          "AttyNPA": "",
+          "AttyNXX": "",
+          "AttyLINE": "",
+          "AttyEXT": "",
+          "AttyFaxNPA": "",
+          "AttyFaxNXX": "",
+          "AttyFaxLINE": "",
+          "AttyEMail": "",
+          "LimitedPOA": false,
+          "CustomData": {
+             "FieldName": "",
+             "Type": "",
+             "DefaultValue": "",
+             "Caption": "",
+             "Desccription": "",
+             "IsViewable": false,
+             "IsReadOnly": false,
+             "DecimalPoints": "",
+             "TextLength": ""
+          },
+          "DebtorAttorneyNotes": [
+             {
+                "Date": "",
+                "User": "",
+                "Debtor": "",
+                "Comment": ""
+             }
+          ]
+       }
+    ],
+    "ClaimSummary": {
+       "ClaimId": 0,
+       "FileNo": "16-100002",
+       "Client": "Agreeya Cogent (5673) ",
+       "Plaintiff": "NCEP. LLC",
+       "ClientRef": "99998885176690023167385",
+       "Creditor": "5673",
+       "CreditorRef": "6690167385",
+       "Merchant": "NETFLIX USA",
+       "NetworkNo": "",
+       "CollectionStatus": "Suit Filed",
+       "LegalStatus": "Suit Filed",
+       "DebtorStatus": "Pre-Suit",
+       "Jurisdiction": "York County Court of Common Pleas",
+       "LastAttempt": "03/12/2020",
+       "LastContact": "02/27/2020 02:42 PM",
+       "LastWorked": "07/22/2010 0",
+       "Score": "0",
+       "NtwrkClient": "GA81.NCEP",
+       "Placed": "12/23/2015 (1547)",
+       "SOL": "11.29/2039",
+       "Forwarded": "",
+       "QuickNote": "",
+       "ClaimType": "STUDENT LOAN",
+       "Location": "",
+       "Balance": 11904.38,
+       "MatterNo": "",
+       "StudentLoanInfo": {
+          "StudentId": 0,
+          "StudentName": "",
+          "DOB": "12/03/2014",
+          "TaxId": "",
+          "StartDate": ""
+       },
+       "MedicalLoanInfo": {
+          "PatientId": 0,
+          "PatientName": "",
+          "DOB": "",
+          "TaxId": "",
+          "ServiceDate": ""
+       },
+       "ClaimBalance": {
+          "Original": 585.68,
+          "Incurred": 12233.54,
+          "Paid": -797.22,
+          "Current": 12022.00,
+          "PlanBalance": 0.00,
+          "Unapplied": -117.22,
+          "IntRate": 0.00,
+          "LastCalc": "02/26/2020",
+          "PerDiem": 0.00,
+          "LastPmt": 100.00,
+          "LastPmtDate": "02/26/2020"
+       },
+       "Comment": [
+          {
+             "CommentId": 0,
+             "Date": "",
+             "User": "",
+             "DebtorName": "",
+             "CmtCode": "",
+             "CmtDescription": "",
+             "Balance": 0
+          }
+       ],
+       "Register": [
+          {
+             "ClaimRegistryId": 0,
+             "Date": "",
+             "Total": 0,
+             "Code": "",
+             "Method": "",
+             "Charge": 0,
+             "Pmt_Adj": 0,
+             "CheckNo": "",
+             "Note": ""
+          }
+       ],
+       "Task": [
+          {
+             "ClaimId": 0,
+             "DebtorId": 0,
+             "TaskId": 0,
+             "TaskListId": 0,
+             "Date": "",
+             "DebtorName": "",
+             "Owner": "",
+             "TaskCode": "",
+             "TaskDescription": "",
+             "CreatedBy": ""
+          }
+       ],
+       "CoDebtor": [
+          {
+             "DebtorId": 0,
+             "DebtorName": "",
+             "DebtorType": "",
+             "Liability": "",
+             "TaxID": "",
+             "DOB": "",
+             "LastCBR": "",
+             "CBRScore": 0,
+             "CollScore": 0,
+             "StatueDisclosureMsg": "",
+             "LastDemandLtr": ""
+          }
+       ]
+    },
+    "LinkedClaims": [
+       {
+          "ClaimId": 0,
+          "FileNo": "123456",
+          "Client": "",
+          "Plaintiff": "",
+          "ClientRef": "",
+          "Creditor": "",
+          "CreditorRef": "",
+          "Merchant": "",
+          "NetworkNo": "",
+          "CollectionStatus": "",
+          "LegalStatus": "",
+          "DebtorStatus": "",
+          "Jurisdiction": "",
+          "LastAttempt": "",
+          "LastContact": "",
+          "LastWorked": "",
+          "Score": "",
+          "NtwrkClient": "",
+          "Placed": "",
+          "SOL": "",
+          "Forwarded": "",
+          "QuickNote": "",
+          "ClaimType": "",
+          "Location": "",
+          "Balance": 0,
+          "MatterNo": "",
+          "StudentLoanInfo": {
+             "StudentId": 0,
+             "StudentName": "",
+             "DOB": "",
+             "TaxId": "",
+             "StartDate": ""
+          },
+          "MedicalLoanInfo": {
+             "PatientId": 0,
+             "PatientName": "",
+             "DOB": "",
+             "TaxId": "",
+             "ServiceDate": ""
+          },
+          "ClaimBalance": {
+             "Original": 0,
+             "Incurred": 0,
+             "Paid": 0,
+             "Current": 0,
+             "PlanBalance": 0,
+             "Unapplied": 0,
+             "IntRate": 0,
+             "LastCalc": "",
+             "PerDiem": 0,
+             "LastPmt": 0,
+             "LastPmtDate": ""
+          },
+          "Comment": [
+             {
+                "CommentId": 0,
+                "Date": "",
+                "User": "",
+                "DebtorName": "",
+                "CmtCode": "",
+                "CmtDescription": "",
+                "Balance": 0
+             }
+          ],
+          "Register": [
+             {
+                "ClaimRegistryId": 0,
+                "Date": "",
+                "Total": 0,
+                "Code": "",
+                "Method": "",
+                "Charge": 0,
+                "Pmt_Adj": 0,
+                "CheckNo": "",
+                "Note": ""
+             }
+          ],
+          "Task": [
+             {
+                "ClaimId": 0,
+                "DebtorId": 0,
+                "TaskId": 0,
+                "TaskListId": 0,
+                "Date": "",
+                "DebtorName": "",
+                "Owner": "",
+                "TaskCode": "",
+                "TaskDescription": "",
+                "CreatedBy": ""
+             }
+          ],
+          "CoDebtor": [
+             {
+                "DebtorId": 0,
+                "DebtorName": "",
+                "DebtorType": "",
+                "Liability": "",
+                "TaxID": "",
+                "DOB": "",
+                "LastCBR": "",
+                "CBRScore": 0,
+                "CollScore": 0,
+                "StatueDisclosureMsg": "",
+                "LastDemandLtr": ""
+             }
+          ]
+       },
+       {
+         "ClaimId": 0,
+         "FileNo": "567890",
+         "Client": "",
+         "Plaintiff": "",
+         "ClientRef": "",
+         "Creditor": "",
+         "CreditorRef": "",
+         "Merchant": "",
+         "NetworkNo": "",
+         "CollectionStatus": "",
+         "LegalStatus": "",
+         "DebtorStatus": "",
+         "Jurisdiction": "",
+         "LastAttempt": "",
+         "LastContact": "",
+         "LastWorked": "",
+         "Score": "",
+         "NtwrkClient": "",
+         "Placed": "",
+         "SOL": "",
+         "Forwarded": "",
+         "QuickNote": "",
+         "ClaimType": "",
+         "Location": "",
+         "Balance": 0,
+         "MatterNo": "",
+         "StudentLoanInfo": {
+            "StudentId": 0,
+            "StudentName": "",
+            "DOB": "",
+            "TaxId": "",
+            "StartDate": ""
+         },
+         "MedicalLoanInfo": {
+            "PatientId": 0,
+            "PatientName": "",
+            "DOB": "",
+            "TaxId": "",
+            "ServiceDate": ""
+         },
+         "ClaimBalance": {
+            "Original": 0,
+            "Incurred": 0,
+            "Paid": 0,
+            "Current": 0,
+            "PlanBalance": 0,
+            "Unapplied": 0,
+            "IntRate": 0,
+            "LastCalc": "",
+            "PerDiem": 0,
+            "LastPmt": 0,
+            "LastPmtDate": ""
+         },
+         "Comment": [
+            {
+               "CommentId": 0,
+               "Date": "",
+               "User": "",
+               "DebtorName": "",
+               "CmtCode": "",
+               "CmtDescription": "",
+               "Balance": 0
+            }
+         ],
+         "Register": [
+            {
+               "ClaimRegistryId": 0,
+               "Date": "",
+               "Total": 0,
+               "Code": "",
+               "Method": "",
+               "Charge": 0,
+               "Pmt_Adj": 0,
+               "CheckNo": "",
+               "Note": ""
+            }
+         ],
+         "Task": [
+            {
+               "ClaimId": 0,
+               "DebtorId": 0,
+               "TaskId": 0,
+               "TaskListId": 0,
+               "Date": "",
+               "DebtorName": "",
+               "Owner": "",
+               "TaskCode": "",
+               "TaskDescription": "",
+               "CreatedBy": ""
+            }
+         ],
+         "CoDebtor": [
+            {
+               "DebtorId": 0,
+               "DebtorName": "",
+               "DebtorType": "",
+               "Liability": "",
+               "TaxID": "",
+               "DOB": "",
+               "LastCBR": "",
+               "CBRScore": 0,
+               "CollScore": 0,
+               "StatueDisclosureMsg": "",
+               "LastDemandLtr": ""
+            }
+         ]
+      },
+      {
+         "ClaimId": 0,
+         "FileNo": "987654",
+         "Client": "",
+         "Plaintiff": "",
+         "ClientRef": "",
+         "Creditor": "",
+         "CreditorRef": "",
+         "Merchant": "",
+         "NetworkNo": "",
+         "CollectionStatus": "",
+         "LegalStatus": "",
+         "DebtorStatus": "",
+         "Jurisdiction": "",
+         "LastAttempt": "",
+         "LastContact": "",
+         "LastWorked": "",
+         "Score": "",
+         "NtwrkClient": "",
+         "Placed": "",
+         "SOL": "",
+         "Forwarded": "",
+         "QuickNote": "",
+         "ClaimType": "",
+         "Location": "",
+         "Balance": 0,
+         "MatterNo": "",
+         "StudentLoanInfo": {
+            "StudentId": 0,
+            "StudentName": "",
+            "DOB": "",
+            "TaxId": "",
+            "StartDate": ""
+         },
+         "MedicalLoanInfo": {
+            "PatientId": 0,
+            "PatientName": "",
+            "DOB": "",
+            "TaxId": "",
+            "ServiceDate": ""
+         },
+         "ClaimBalance": {
+            "Original": 0,
+            "Incurred": 0,
+            "Paid": 0,
+            "Current": 0,
+            "PlanBalance": 0,
+            "Unapplied": 0,
+            "IntRate": 0,
+            "LastCalc": "",
+            "PerDiem": 0,
+            "LastPmt": 0,
+            "LastPmtDate": ""
+         },
+         "Comment": [
+            {
+               "CommentId": 0,
+               "Date": "",
+               "User": "",
+               "DebtorName": "",
+               "CmtCode": "",
+               "CmtDescription": "",
+               "Balance": 0
+            }
+         ],
+         "Register": [
+            {
+               "ClaimRegistryId": 0,
+               "Date": "",
+               "Total": 0,
+               "Code": "",
+               "Method": "",
+               "Charge": 0,
+               "Pmt_Adj": 0,
+               "CheckNo": "",
+               "Note": ""
+            }
+         ],
+         "Task": [
+            {
+               "ClaimId": 0,
+               "DebtorId": 0,
+               "TaskId": 0,
+               "TaskListId": 0,
+               "Date": "",
+               "DebtorName": "",
+               "Owner": "",
+               "TaskCode": "",
+               "TaskDescription": "",
+               "CreatedBy": ""
+            }
+         ],
+         "CoDebtor": [
+            {
+               "DebtorId": 0,
+               "DebtorName": "",
+               "DebtorType": "",
+               "Liability": "",
+               "TaxID": "",
+               "DOB": "",
+               "LastCBR": "",
+               "CBRScore": 0,
+               "CollScore": 0,
+               "StatueDisclosureMsg": "",
+               "LastDemandLtr": ""
+            }
+         ]
+      }
+    ],
+    "ClaimBalance": [
+       {
+          "Original": 0,
+          "Incurred": 0,
+          "Paid": 0,
+          "Current": 0,
+          "PlanBalance": 0,
+          "Unapplied": 0,
+          "IntRate": 0,
+          "LastCalc": "",
+          "PerDiem": 0,
+          "LastPmt": 0,
+          "LastPmtDate": ""
+       }
+    ],
+    "LinkedClaimInfo": {
+       "TotalActiveClaims": "3",
+       "TotalBalance": 513912.62,
+       "LinkedClaimBalance": 0
+    }
+ }
